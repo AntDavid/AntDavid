@@ -6,9 +6,8 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/494981686325542939)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidantoniodavi@gmail.com?)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31ehzubnledxuc4oquzsf4duvb44)
-
 </br> 
-#### O gosto pela programação não se limita apenas à resolução de problemas lógicos, mas à criação de soluções inovadoras. Cada projeto é uma tela em branco onde posso dar vida às minhas ideias, transformando linhas de código em experiências interativas e funcionais. A capacidade de materializar conceitos abstratos em programas tangíveis é, para mim, uma forma de arte.</br>
+O gosto pela programação não se limita apenas à resolução de problemas lógicos, mas à criação de soluções inovadoras. Cada projeto é uma tela em branco onde posso dar vida às minhas ideias, transformando linhas de código em experiências interativas e funcionais. A capacidade de materializar conceitos abstratos em programas tangíveis é, para mim, uma forma de arte.</br>
 
 ![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntDavid&show_icons=true&theme=transparent)
 
