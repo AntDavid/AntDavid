@@ -9,7 +9,7 @@
 
 ![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntDavid&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntDavid&langs_count=8)
 
 ## Tecnologias utilizadas
 <div style="display: inline_block"><br/>
