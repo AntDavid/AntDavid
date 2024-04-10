@@ -21,5 +21,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntDavid&langs_count=8&show_icons=true&theme=transparent)
 
-<p>Ultimamente venho estudando NextJS e aprimorando os meus conhecimentos em Django</p>
 
