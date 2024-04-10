@@ -21,4 +21,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntDavid&langs_count=8&show_icons=true&theme=transparent)
 
-
+## Praticando outras tecnologias
+<div style="display: inline_block"><br/>
+  <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img align="center" alt="nodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div></br>
