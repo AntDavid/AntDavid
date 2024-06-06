@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonlo-davld/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidantoniodavi@gmail.com?)
 </br>
-#### Desenvolvedor Fullstack com expertise em Python, Django, JavaScript e SQL. Proficiente em análise de dados utilizando Power BI, Tableau e Excel avançado. Experiência na integração de sistemas usando APIs REST e SOAP, além de manutenção de computadores e redes. Formação técnica em Informática pelo Instituto Federal Baiano e atualmente cursando Bacharelado em Ciência da Computação na UFBRA. Habilidades técnicas incluem Java, Python, Django, JavaScript, SQL, C#, .NET, Caché Object Script, e integração com Caché DB e Ensemble. Apaixonado por aprendizado contínuo e resolução de problemas. Confira meus projetos no GitHub para mais detalhes!</br>
+#### Desenvolvedor com expertise em Python, Django, JavaScript e SQL. Proficiente em análise de dados utilizando Power BI, Tableau e Excel avançado. Experiência na integração de sistemas usando APIs REST e SOAP, além de manutenção de computadores e redes. Formação técnica em Informática pelo Instituto Federal Baiano e atualmente cursando Bacharelado em Ciência da Computação na UFBRA. Habilidades técnicas incluem Java, Python, Django, JavaScript, SQL, C#, .NET, Caché Object Script, e integração com Caché DB e Ensemble. Apaixonado por aprendizado contínuo e resolução de problemas. Confira meus projetos no GitHub para mais detalhes!</br>
 
 ![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntDavid&show_icons=true&theme=transparent)
 
