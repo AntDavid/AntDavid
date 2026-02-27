@@ -68,8 +68,8 @@ Sou um desenvolvedor movido pela paixão por resolver problemas complexos e pelo
 ## 📈 Minhas Estatísticas
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AntDavid&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AntDavid&layout=compact&langs_count=8&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AntDavid&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" width="45%" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntDavid&layout=compact&langs_count=8&theme=transparent" width="45%" alt="Linguagens mais utilizadas"/>
 </div>
 
 ---
